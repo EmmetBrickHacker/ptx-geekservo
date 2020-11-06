@@ -8,7 +8,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "geekservo.ts",
+        "ELECFREAKS.ts"
     ],
     "testFiles": [
         "test.ts"
