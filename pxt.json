@@ -1,5 +1,5 @@
 {
-    "name": "ptx-geekservo",
+    "name": "pxt-geekservo",
     "description": "",
     "dependencies": {
         "core": "*",
